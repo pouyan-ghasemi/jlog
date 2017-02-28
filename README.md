@@ -7,7 +7,7 @@ This library almost offers no extra value but after reading "Coders at Work" I f
 rely on "Console.log" in the initial state of their development. So why not remove some hassles out of (If( DEBUGG === true))!
 
 
-JLog syntax is so simple! 
+JLog syntax is simple! 
 
 jl.lock() : Enables your master lock so just use that at the beginning once you are done with logging! 
 
